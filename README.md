@@ -11,7 +11,7 @@
 
 ***Techniques, tools, best practices, and everything you need to to learn machine learning!***
 
-![tools](images/git_cover.png)
+![tools](Images/git_cover.png)
 
 
 [Complete Machine Learning Package](https://nyandwi.com/machine_learning_complete/) is a comprehensive repository containing 35 notebooks on Python programming, data manipulation, data analysis, data visualization, data cleaning, classical machine learning, Computer Vision and Natural Language Processing(NLP). 
